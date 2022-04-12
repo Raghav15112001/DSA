@@ -1,0 +1,1 @@
+cout<<h2->data<<endl;
